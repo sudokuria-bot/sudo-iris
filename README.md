@@ -30,3 +30,25 @@ Offline personal finance tracker featuring net worth tracking, income/expense ma
 
 8. iris_defender
 Windows endpoint security scanner that monitors running processes, services, scheduled tasks, registry persistence, network connections, DNS cache, firewall rules, and Windows event logs for suspicious activity. Features a modern SIEM-style dashboard with severity charts, threat tables, real-time filtering, dark/light themes, and CSV/PDF export.
+
+9. iris_cyberedu.apk
+A native Android study app for CISSP exam preparation, built with Kotlin and Jetpack Compose.
+Features:
+995 unique practice questions across all 8 CISSP domains
+Multiple question types: multiple choice, true/false, and fill-in-the-blank
+Three difficulty levels: Easy, Medium, and Hard
+Timed quiz mode with configurable question count
+Instant feedback with detailed explanations
+Progress tracking and score history
+Filter by domain or difficulty to focus your study sessions
+
+CISSP Domains Covered:
+Security and Risk Management
+Asset Security
+Security Architecture and Engineering
+Communication and Network Security
+Identity and Access Management (IAM)
+Security Assessment and Testing
+Security Operations
+Software Development Security
+Built with: Kotlin · Jetpack Compose · Room · DataStore · Material 3
