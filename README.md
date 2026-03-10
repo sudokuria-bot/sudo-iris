@@ -52,3 +52,6 @@ Security Assessment and Testing
 Security Operations
 Software Development Security
 Built with: Kotlin · Jetpack Compose · Room · DataStore · Material 3
+
+10. iris_host.exe
+Iris Host is a Discord-based remote control bot for Windows. Run it on any machine and control it from Discord — execute shell commands, manage files, take screenshots, record audio, monitor system stats, control volume, view browser history, and more. All communication is encrypted and restricted to authorized Discord users only.
